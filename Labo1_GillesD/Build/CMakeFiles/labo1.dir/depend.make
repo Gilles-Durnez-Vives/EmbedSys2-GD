@@ -3,4 +3,10 @@
 
 CMakeFiles/labo1.dir/main.c.o: ../PJ_RPI.h
 CMakeFiles/labo1.dir/main.c.o: ../main.c
+CMakeFiles/labo1.dir/main.c.o: /usr/include/mariadb/ma_list.h
+CMakeFiles/labo1.dir/main.c.o: /usr/include/mariadb/mariadb_com.h
+CMakeFiles/labo1.dir/main.c.o: /usr/include/mariadb/mariadb_ctype.h
+CMakeFiles/labo1.dir/main.c.o: /usr/include/mariadb/mariadb_stmt.h
+CMakeFiles/labo1.dir/main.c.o: /usr/include/mariadb/mariadb_version.h
+CMakeFiles/labo1.dir/main.c.o: /usr/include/mariadb/mysql.h
 
