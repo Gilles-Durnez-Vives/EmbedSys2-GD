@@ -5,7 +5,7 @@
 #include <time.h>
 #include <mysql.h>
 #include <stdbool.h>
-
+//Uitbreiding
 bool Input_Value_Changed(bool *newVal, bool *oldVal);
 
 int main()
