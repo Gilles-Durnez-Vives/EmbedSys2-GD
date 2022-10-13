@@ -6,33 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/pi/School/Embed/EmbedSys2-GD/Labo1_GillesD/PJ_RPI.h
-stdio.h
--
-string.h
--
-stdlib.h
--
-dirent.h
--
-fcntl.h
--
-assert.h
--
-sched.h
--
-sys/mman.h
--
-sys/types.h
--
-sys/stat.h
--
-unistd.h
--
-
 /home/pi/School/Embed/EmbedSys2-GD/Labo1_GillesD/main.c
-PJ_RPI.h
-/home/pi/School/Embed/EmbedSys2-GD/Labo1_GillesD/PJ_RPI.h
 stdio.h
 -
 stdlib.h
@@ -44,6 +18,8 @@ time.h
 mysql.h
 -
 stdbool.h
+-
+gpiod.h
 -
 
 /usr/include/mariadb/ma_list.h
